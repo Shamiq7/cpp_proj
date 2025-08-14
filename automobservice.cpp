@@ -18,7 +18,7 @@ void ID(string selectedvehicle);
 
 
 void DriverDetails(string selectedVehicle){
-    int age;
+   
     string name; 
     string adress;
   cout<<"<<<Enter Driver Details>>> \n"<<endl;
